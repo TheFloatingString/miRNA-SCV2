@@ -1,0 +1,954 @@
+SARS-CoV-2-
+conservedstructured-1
+918-1037 ACUGGACUUUAUUGACACUAAGAGGGGUGUAUACUGCUGCC
+GUGAACAUGAGCAUGAAAUUGCUUGGUACACGGAACGUUCU
+GAAAAGAGCUAUGAAUUGCAGACACCUUUUGAAAUUAA
+.....................(((((((((...((((..((((
+(.((.((((((......)))))))).)))))...(((((...
+.)))))........)))))))))))))........
+-4.38 0.999
+SARS-CoV-2-
+conservedstructured-2
+14206-14325 AUGUUGACACUGACUUAACAAAGCCUUACAUUAAGUGGGAU
+UUGUUAAAAUAUGACUUCACGGAAGAGAGGUUAAAACUCUU
+UGACCGUUAUUUUAAAUAUUGGGAUCAGACAUACCACC
+(((((((..(..(.((((((((..(((((.....))))).)
+)))))))...........((((.((((((.......))))))
+..))))...........)..)..))).))))......
+-1.99 0.999
+SARS-CoV-2-
+conservedstructured-3
+17125-17244 UCUACUACCCUUCUGCUCGCAUAGUGUAUACAGCUUGCUCU
+CAUGCCGCUGUUGAUGCACUAUGUGAGAAGGCAUUAAAAUA
+UUUGCCUAUAGAUAAAUGUAGUAGAAUUAUACCUGCAC
+((((((((...(((((((((((((((((((((((..((..
+....)).)))))..)))))))))))))).(((((........
+..))))).)))).....)))))))).............
+-6.85 0.999
+SARS-CoV-2-
+conservedstructured-4
+7011-7130 UUUAGGUGUUUUAAUGUCUAAUUUAGGCAUGCCUUCUUACU
+GUACUGGUUACAGAGAAGGCUAUUUGAACUCUACUAAUGUC
+ACUAUUGCAACCUACUGUACUGGUUCUAUACCUUGUAG
+..(((((((..(((((((((...)))))))(((((((..((
+(((.....)))))))))))).......................)
+)..)).)))))...(((.(((.....)))..))).
+-1.36 0.999
+SARS-CoV-2-
+conservedstructured-5
+26135-26254 AAUCGACGGUUCAUCCGGAGUUGUUAAUCCAGUAAUGGAAC
+CAAUUUAUGAUGAACCGACGACGACUACUAGCGUGCCUUUG
+UAAGCACAAGCUGAUGAGUACGAACUUAUGUACUCAUU
+..(((.(((((((((..((((((....((((....))))..)
+)))))..))))))))).))).......((((((((.......
+.))))..))))(((((((((......))))))))).
+-5.44 0.999
+SARS-CoV-2-
+conservedstructured-6
+26175-26294 CCAAUUUAUGAUGAACCGACGACGACUACUAGCGUGCCUUU
+GUAAGCACAAGCUGAUGAGUACGAACUUAUGUACUCAUUCG
+UUUCGGAAGAGACAGGUACGUUAAUAGUUAAUAGCGUA
+..................(((..(((((.((((((((((....
+.(((....)))((((((((((......)))))))))).(((
+((....))))))))))))))).))))).....))).
+-4.44 0.999
+SARS-CoV-2-
+conservedstructured-7
+6251-6370 AUGCAACUAAUAAAGCCACGUAUAAACCAAAUACCUGGUGUA
+UACGUUGUCUUUGGAGCACAAAACCAGUUGAAACAUCAAAU
+UCGUUUGAUGUACUGAAGUCAGAGGACGCGCAGGGAA
+.(((......((((((.(((((((.((((......)))).))
+))))).).)))))..((.......((((....((((((((..
+..))))))))))))..(((....)))))))).....
+-2.52 0.999
+SARS-CoV-2-
+conservedstructured-8
+40-157 UUUCGAUCUCUUGUAGAUCUGUUCUCUAAACGAACUUUAAA
+AUCUGUGUGGCUGUCACUCGGCUGCAUGCUUAGUGCACUC
+ACGCAGUAUAAUUAAUAACUAAUUACUGUCGUUGACA
+....(((((.....))))).........(((((..........(
+((((((..((.((((.(((.....))).))))))..)))))
+))..((((((.....))))))...)))))....
+-2.91 0.998
+SARS-CoV-2-
+conservedstructured-9
+26491-26607 AGUUUUUCUGUUUGGAACUUUAAUUUUAGCCAUGGCAGAUU
+CCAACGGUACUAUUACCGUUGAAGAGCUUAAAAAGCUCCUU
+GAACAAUGGAACCUAGUAAUAGGUUUCCUAUUCCU
+.((((.(((((((((..((........))))).))))))...
+((((((((....))))))))..(((((.....)))))...)
+)))...((((((((....))))))))........
+-3.52 0.998
+SARS-CoV-2-
+conservedstructured-10
+25895-26014 CAUUACUUCAGGUGAUGGCACAACAAGUCCUAUUUCUGAAC
+AUGACUACCAGAUUGGUGGUUAUACUGAAAAAUGGGAAUCU
+GGAGUAAAAGACUGUGUUGUAUUACACAGUUACUUCAC
+..(((((((((((..((......))..((((((((.(.(..(
+((((((((.....)))))))))..).).)))))))))))))
+))))))..((((((((......)))))))).......
+-4.4 0.998
+SARS-CoV-2-
+conservedstructured-11
+5211-5330 AUUAAAUCACACUAAAAAGUGGAAAUACCCACAAGUUAAUGG
+UUUAACUUCUAUUAAAUGGGCAGAUAACAACUGUUAUCUUG
+CCACUGCAUUGUUAACACUCCAACAAAUAGAGUUGAA
+.........((.(((...((((......))))...))).)).(
+((((((.(((((.....((((((((((....)))))).)))
+).......((((........))))))))))))))))
+-2.76 0.998
+SARS-CoV-2-
+conservedstructured-12
+26215-26334 UGUAAGCACAAGCUGAUGAGUACGAACUUAUGUACUCAUUC
+GUUUCGGAAGAGACAGGUACGUUAAUAGUUAAUAGCGUACU
+UCUUUUUCUUGCUUUCGUGGUAUUCUUGCUAGUUACAC
+((((((((.((((.((((((((((......)))))))))).
+)))).((((((((..(((((((((........)))))))))
+)))))))).))).....(((((....))))).))))).
+-3.49 0.998
+SARS-CoV-2-
+conservedstructured-13
+6211-6330 GCUAAAUUGUUACAUAAACCUAUUGUUUGGCAUGUUAACAA
+UGCAACUAAUAAAGCCACGUAUAAACCAAAUACCUGGUGUA
+UACGUUGUCUUUGGAGCACAAAACCAGUUGAAACAUCA
+(((..((((((((((...((........)).))).)))))))
+........((((((.(((((((.((((......)))).))))
+))).).))))).))).....................
+-1.03 0.998
+SARS-CoV-2-
+conservedstructured-14
+16445-16564 UUAUUGUAAAUCACAUAAACCACCCAUUAGUUUUCCAUUGU
+GUGCUAAUGGACAAGUUUUUGGUUUAUAUAAAAAUACAUGU
+GUUGGUAGCGAUAAUGUUACUGACUUUAAUGCAAUUGC
+....(((((((((...((((...((((((((............
+))))))))....)))).)))))))))........(((..((.
+.(((((......)))))..))....))).......
+-1.17 0.997
+SARS-CoV-2-
+conservedstructured-15
+7051-7170 UGUACUGGUUACAGAGAAGGCUAUUUGAACUCUACUAAUGU
+CACUAUUGCAACCUACUGUACUGGUUCUAUACCUUGUAGUG
+UUUGUCUUAGUGGUUUAGAUUCUUUAGACACCUAUCCU
+(((.(((....))).(((((..((((((((...((....))(
+((((..(((((((((......(((.....)))..)))).).)
+)))..))))))))))))))))))..)))........
+0.99 0.996
+SARS-CoV-2-
+conservedstructured-16
+158-277 GGACACGAGUAACUCGUCUAUCUUCUGCAGGCUGCUUACG
+GUUUCGUCCGUGUUGCAGCCGAUCAUCAGCACAUCUAGGU
+UUCGUCCGGGUGUGACCGAAAGGUAAGAUGGAGAGCCUUG
+.....((((...(((.((((((((.....((((((.(((((.
+.....)))))..)))))).........(((((((.((......
+)))))))))(((....)))))))))))))).))))
+-2.87 0.996
+SARS-CoV-2-
+conservedstructured-17
+23977-24096 UUACCAGAUCCAUCAAAACCAAGCAAGAGGUCAUUUAUUGA
+AGAUCUACUUUUCAACAAAGUGACACUUGCAGAUGCUGGCU
+UCAUCAAACAAUAUGGUGAUUGCCUUGGUGAUAUUGCU
+(((((((...............(((((..(((((((.(((((
+((.....)))))))..))))))).))))).......(((.((
+((((.......))))))..)))))))))).......
+-2.82 0.994
+SARS-CoV-2-
+conservedstructured-18
+25855-25974 ACUAUUGUAUACCUUACAAUAGUGUAACUUCUUCAAUUGUC
+AUUACUUCAGGUGAUGGCACAACAAGUCCUAUUUCUGAACA
+UGACUACCAGAUUGGUGGUUAUACUGAAAAAUGGGAAU
+(((((((((.....)))))))))..............(((((
+((((.....))))))))).......((((((((.(.(..(((
+((((((.....)))))))))..).).))))))))..
+-4.25 0.994
+SARS-CoV-2-
+conservedstructured-19
+2943-3062 GGGCAUUGAUUUAGAUGAGUGGAGUAUGGCUACAUACUACU
+UAUUUGAUGAGUCUGGUGAGUUUAAAUUGGCUUCACAUAUG
+UAUUGUUCUUUCUACCCUCCAGAUGAGGAUGAAGAAGA
+..((((((..((((((((((..((((((....)))))))))
+)))))))((((.(..((........))..).)))))).))))
+....((((((....((((.....))))..))))))..
+-0.32 0.994
+SARS-CoV-2-
+conservedstructured-20
+14726-14845 UAAGGAAGGAAGUUCUGUUGAAUUAAAACACUUCUUCUUUG
+CUCAGGAUGGUAAUGCUGCUAUCAGCGAUUAUGACUACUAU
+CGUUAUAAUCUACCAACAAUGUGUGAUAUCAGACAACU
+..((.(((((((...((((.......))))...))))))).)
+).....(((((..((((....))))(((((((((.......)
+)))))))))))))....(((.((....)).)))...
+-3.02 0.994
+SARS-CoV-2-
+conservedstructured-21
+26375-26490 CAAUAUUGUUAACGUGAGUCUUGUAAAACCUUCUUUUUACG
+UUUACUCUCGUGUUAAAAAUCUGAAUUCUUCUAGAGUUCCU
+GAUCUUCUGGUCUAAACGAACUAAAUAUUAUAUU
+.((((((....(((.((((..(((((((......))))))).
+..)))).)))(((........((((((.....))))))..((
+((....))))..)))......)))))).....
+-2.73 0.994
+SARS-CoV-2-
+conservedstructured-22
+21365-21484 AAUUCAGUUGUCUUCCUAUUCUUUAUUUGACAUGAGUAAAU
+UUCCCCUUAAAUUAAGGGGUACUGCUGUUAUGUCUUUAAAA
+GAAGGUCAAAUCAAUGAUAUGAUUUUAUCUCUUCUUAG
+..................((((((....((((((((((.....(
+((((((...)))))))...))))..))))))....))))))
+(((.((((((......)))))).))).........
+-2.27 0.994
+SARS-CoV-2-
+conservedstructured-23
+2158-2277 GAAGAGAAGUUUAAGGAAGGUGUAGAGUUUCUUAGAGACGG
+UUGGGAAAUUGUUAAAUUUAUCUCAACCUGUGCUUGUGAAA
+UUGUCGGUGGACAAAUUGUCACCUGUGCAAAGGAAAUU
+........((((.((((((.(....).))))))..))))(((
+(((((((((....))))..))))))))((..(..((((..(
+((((....)))))....))))..)..)).........
+-1.62 0.993
+SARS-CoV-2-
+conservedstructured-24
+4174-4293 AAAAAGGCUGGUGGCACUACUGAAAUGCUAGCGAAAGCUUU
+GAGAAAAGUGCCAACAGACAAUUAUAUAACCACUUACCCGG
+GUCAGGGUUUAAAUGGUUACACUGUAGAGGAGGCAAAG
+.....(.(((.(((((((.((.((.....(((....))))).
+))...))))))).))).)..(((((((((((...((((...
+...)))).....))))))...)))))...........
+-1.33 0.993
+SARS-CoV-2-
+conservedstructured-25
+26528-26647 GAUUCCAACGGUACUAUUACCGUUGAAGAGCUUAAAAAGCU
+CCUUGAACAAUGGAACCUAGUAAUAGGUUUCCUAUUCCUUA
+CAUGGAUUUGUCUUCUACAAUUUGCCUAUGCCAACAGG
+.....((((((((....))))))))..(((((.....)))))
+((((......((((((((....))))))))..........((
+(((..((((.....))))....)).)))....))))
+-3.29 0.993
+SARS-CoV-2-
+conservedstructured-26
+26255-26374 CGUUUCGGAAGAGACAGGUACGUUAAUAGUUAAUAGCGUAC
+UUCUUUUUCUUGCUUUCGUGGUAUUCUUGCUAGUUACACUA
+GCCAUCCUUACUGCGCUUCGAUUGUGUGCGUACUGCUG
+.(((((....))))).(((((((..((((((...((((((.
+..........((((.....)))).....(((((.....)))))
+.........))))))..))))))..)))))))....
+-2.31 0.992
+SARS-CoV-2-
+conservedstructured-27
+5651-5770 AUCUAGUACAACAGGAGUCACCUUUUGUUAUGAUGUCAGCA
+CCACCUGCUCAGUAUGAACUUAAGCAUGGUACAUUUACUUG
+UGCUAGUGAGUACACUGGUAAUUACCAGUGUGGUCACU
+...((((((((((((((....))))))))..(((((....(
+(((..((((.(((....)))..))))))))))))).....)
+)))))((((.(((((((((....))))))))).)))).
+-2.77 0.992
+SARS-CoV-2-
+conservedstructured-28
+7131-7250 UGUUUGUCUUAGUGGUUUAGAUUCUUUAGACACCUAUCCUU
+CUUUAGAAACUAUACAAAUUACCAUUUCAUCUUUUAAAUGG
+GAUUUAACUGCUUUUGGCUUAGUUGCAGAGUGGUUUUU
+.((((((..((((.(((((((...)))))))..(((......
+..)))..)))).))))))..((((((........))))))..
+...(((..(((...((......)).)))..)))...
+-0.12 0.992
+SARS-CoV-2-
+conservedstructured-29
+10970-11089 AAAGUGCAGUGAAAAGAACAAUCAAGGGUACACACCACUGG
+UUGUUACUCACAAUUUUGACUUCACUUUUAGUUUUAGUCCA
+GAGUACUCAAUGGUCUUUGUUCUUUUUUUUGUAUGAAA
+...((((((.(((((((((((.((..(((....)))..))(
+(((.(((((...(((..((((........))))..)))...)
+))))..)))).....))))))))))).))))))....
+-1.44 0.992
+SARS-CoV-2-
+conservedstructured-30
+28838-28957 GUAGUCGCAACAGUUCAAGAAAUUCAACUCCAGGCAGCAGU
+AGGGGAACUUCUCCUGCUAGAAUGGCUGGCAAUGGCGGUG
+AUGCUGCUCUUGCUUUGCUGCUGCUUGACAGAUUGAACC
+.(((((.....((((.((....)).)))).(((((((((((
+(((((.....)))))))).....(((.(((((.(((((....
+.))))).)))))..)))))))))))...)))))....
+-2.64 0.992
+SARS-CoV-2-
+conservedstructured-31
+26095-26214 AAAUUGUUGAUGAGCCUGAAGAACAUGUCCAAAUUCACACA
+AUCGACGGUUCAUCCGGAGUUGUUAAUCCAGUAAUGGAACC
+AAUUUAUGAUGAACCGACGACGACUACUAGCGUGCCUU
+.....((((.((..(.((.....)).)..))...........((
+(.(((((((((..((((((....((((....))))..))))
+))..))))))))).)))))))..............
+-1.91 0.992
+SARS-CoV-2-
+conservedstructured-32
+2903-3022 UAAAAACUUUGCAACCAGUAUCUGAAUUACUUACACCACUG
+GGCAUUGAUUUAGAUGAGUGGAGUAUGGCUACAUACUACUU
+AUUUGAUGAGUCUGGUGAGUUUAAAUUGGCUUCACAUA
+..............((((((.......)))(((.(((((..((
+(.((...((((((((((..((((((....))))))))))))
+)))).)))))..))).)).)))..))).........
+-0.97 0.991
+SARS-CoV-2-
+conservedstructured-33
+29550-29669 AAGGCAGAUGGGCUAUAUAAACGUUUUCGCUUUUCCGUUUA
+CGAUAUAUAGUCUACUCUUGUGCAGAAUGAAUUCUCGUAAC
+UACAUAGCACAAGUAGAUGUAGUUAACUUUAAUCUCAC
+.(((.((.(((((((((((..(((...((......))...))
+).))))))))))))))))(((.(((.((((......(((((
+((((.((....))..)))))))))..)))).))))))
+-1.83 0.990
+SARS-CoV-2-
+conservedstructured-34
+80-197 AAUCUGUGUGGCUGUCACUCGGCUGCAUGCUUAGUGCACU
+CACGCAGUAUAAUUAAUAACUAAUUACUGUCGUUGACAGGA
+CACGAGUAACUCGUCUAUCUUCUGCAGGCUGCUUACG
+...(((((((..((.((((.(((.....))).))))))..))
+)))))..((((((.....))))))..((.(((..(((((.(
+((((...))))).....)))))..))).)).....
+-0.8 0.990
+SARS-CoV-2-
+conservedstructured-35
+13886-14005 CAAUUGUUGUGAUGAUGAUUAUUUCAAUAAAAAGGACUGGU
+AUGAUUUUGUAGAAAACCCAGAUAUAUUACGCGUAUACGCC
+AACUUAGGUGAACGUGUACGCCAAGCUUUGUUAAAAAC
+...((((((.(((((...))))).))))))((((..((((.
+.................)))).........(((((((((...((
+....))...)))))))))....)))).........
+-0.37 0.989
+SARS-CoV-2-
+conservedstructured-36
+120-237 CACGCAGUAUAAUUAAUAACUAAUUACUGUCGUUGACAGGA
+CACGAGUAACUCGUCUAUCUUCUGCAGGCUGCUUACGGUU
+UCGUCCGUGUUGCAGCCGAUCAUCAGCACAUCUAGGU
+...((((((..((((.....)))))))))).((((((((((
+.(((((...))))).....)))))..((((((.(((((....
+..)))))..)))))).....)))))..........
+-2.33 0.989
+SARS-CoV-2-
+conservedstructured-37
+23697-23816 UGCCAUACCCACAAAUUUUACUAUUAGUGUUACCACAGAAA
+UUCUACCAGUGUCUAUGACCAAGACAUCAGUAGAUUGUACA
+AUGUACAUUUGUGGUGAUUCAACUGAAUGCAGCAAUCU
+.......................((((((((((((((((...(
+((((..((((((.......))))))..))))).(((((...)
+)))))))))))))))...)))))............
+-2.64 0.989
+SARS-CoV-2-
+conservedstructured-38
+25655-25774 AACAGUUUACUCACACCUUUUGCUCGUUGCUGCUGGCCUU
+GAAGCCCCUUUUCUCUAUCUUUAUGCUUUAGUCUACUUCUU
+GCAGAGUAUAAACUUUGUAAGAAUAAUAAUGAGGCUUUG
+..((((...............((.....)).))))((((((((
+((...................))))).......((((((((((
+((....)))))))))))).......)))))....
+-1.15 0.989
+SARS-CoV-2-
+conservedstructured-39
+15606-15724 UUACAACACAGACUUUAUGAGUGUCUCUAUAGAAAUAGAGA
+UGUUGACACAGACUUUGUGAAUGAGUUUUACGCAUAUUUGC
+GUAAACAUUUCUCAAUGAUGAUACUCUCUGACGAUGC
+........((((......(((((((..(((.((....((((((
+((..(((((...))))).........((((((....))))))
+)))))))))).)))..))))))))))).......
+-1.81 0.988
+SARS-CoV-2-
+conservedstructured-40
+14526-14645 AGCUCUAGACUUAGUUUUAAGGAAUUACUUGUGUAUGCUGC
+UGACCCUGCUAUGCACGCUGCUUCUGGUAAUCUAUUACUAG
+AUAAACGCACUACGUGCUUUUCAGUAGCUGCACUUACU
+...........((((((....))))))...(((((.((((((
+((.........(((((.(((.((((((((....)))))))).
+....)))...)))))...))))))))))))).....
+-1.64 0.986
+SARS-CoV-2-
+conservedstructured-41
+3808-3897 CUCUAUGACAAACUUGUUUCAAGCUUUUUGGAAAUGAAGAG
+UGAAAAGCAAGUUGAACAAAAGAUCGCUGAGAUUCCUAAAG
+AGGAAGUU
+(((..(((..(((((((((...(((((((......))))))
+)...)))))))))..........)))..))).(((((....)
+))))...
+-1.32 0.983
+SARS-CoV-2-
+conservedstructured-42
+25935-26054 CAUGACUACCAGAUUGGUGGUUAUACUGAAAAAUGGGAAUC
+UGGAGUAAAAGACUGUGUUGUAUUACACAGUUACUUCACUU
+CAGACUAUUACCAGCUGUACUCAACUCAAUUGAGUACA
+.(((((((((.....))))))))).(((...(((((...((
+((((((((..((((((((......))))))))..)).))))
+)))))))))..)))..((((((((.....)))))))).
+-4.97 0.983
+SARS-CoV-2-
+conservedstructured-43
+15645-15764 GAUGUUGACACAGACUUUGUGAAUGAGUUUUACGCAUAUUU
+GCGUAAACAUUUCUCAAUGAUGAUACUCUCUGACGAUGCUG
+UUGUGUGUUUCAAUAGCACUUAUGCAUCUCAAGGUCUA
+(((.((((..((((..(..(.(.((((.((((((((....)
+))))))).....)))).).)..).....))))..(((((...
+((.(((((.....))))).)).))))))))).)))..
+-2.07 0.983
+SARS-CoV-2-
+conservedstructured-44
+2518-2625 UUAACAGAGGAAGUUGUCUUGAAAACUGGUGAUUUACAACC
+AUUAGAACAACCUACUAGUGAAGCUGUUGAAGCUCCAUUGG
+UUGGUACACCAGUUUGUAUUAACGGG
+............((((......(((((((((.((((.......
+))))...(((.(((((((.((((.....)))).))))))).
+))).)))))))))....))))...
+-1.93 0.982
+SARS-CoV-2-
+conservedstructured-45
+26568-26687 UCCUUGAACAAUGGAACCUAGUAAUAGGUUUCCUAUUCCUU
+ACAUGGAUUUGUCUUCUACAAUUUGCCUAUGCCAACAGGAA
+UAGGUUUUUGUAUAUAAUUAAGUUAAUUUUCCUCUGGC
+..(((((((((.((((((((....))))))))....(((..
+....))).))))....(((((...((((((.((....)).))
+))))..))))).....)))))................
+-2.13 0.982
+SARS-CoV-2-
+conservedstructured-46
+1238-1357 AUUGUGGUGAAACUUCAUGGCAGACGGGCGAUUUUGUUAAA
+GCCACUUGCGAAUUUUGUGGCACUGAGAAUUUGACUAAAGA
+AGGUGCCACUACUUGUGGUUACUUACCCCAAAAUGCUG
+.((((.((((....)))).))))...(((.((((((.....(
+((((...........)))))....................((((
+(((((.....)))).)))))....))))))))).
+-0.75 0.981
+SARS-CoV-2-
+conservedstructured-47
+6451-6570 GAGUGUAAUGUGAAAACUACCGAAGUUGUAGGAGACAUUAU
+ACUUAAACCAGCAAAUAAUAGUUUAAAAAUUACAGAAGAGGU
+UGGCCACACAGAUCUAAUGGCUGCUUAUGUAGACAAU
+(((((((((((.....((((.......))))...))))))))
+))).........................(((((....((((.((
+(((...........))))))))).))))).....
+-0.83 0.981
+SARS-CoV-2-
+conservedstructured-48
+29078-29197 AUGUAACACAAGCUUUCGGCAGACGUGGUCCAGAACAAACC
+CAAGGAAAUUUUGGGGACCAGGAACUAAUCAGACAAGGAAC
+UGAUUACAAACAUUGGCCGCAAAUUGCACAAUUUGCCC
+.................(((...(.((((((.(......)((((
+(.....))))))))))).)...(((((((........)))))
+)).........)))(((((((....)))))))..
+-1.24 0.980
+SARS-CoV-2-
+conservedstructured-49
+23497-23616 CGUGCAGGCUGUUUAAUAGGGGCUGAACAUGUCAACAACUC
+AUAUGAGUGUGACAUACCCAUUGGUGCAGGUAUAUGCGCUA
+GUUAUCAGACUCAGACUAAUUCUCCUCGGCGGGCACGU
+(((((..((((.......(((.((((..((((((...((((.
+...)))).))))))....(((((((((......))))))))
+)..)))).)))(((.....)))...))))..))))).
+-2.42 0.979
+SARS-CoV-2-
+conservedstructured-50
+13686-13805 GAAGAAACAAUUUAUAAUUUACUUAAGGAUUGUCCAGCUGU
+UGCUAAACAUGACUUCUUUAAGUUUAGAAUAGACGGUGACA
+UGGUACCACAUAUAUCACGUCAACGUCUUACUAAAUAC
+....................(((((((((.(((..(((....))
+)..))).....)))))))))((((...(((((.((((.(((
+((.......))))).)))).)))))..))))....
+-3.1 0.978
+SARS-CoV-2-
+conservedstructured-51
+12610-12729 AUGGACAAUUCACCUAAUUUAGCAUGGCCUCUUAUUGUAAC
+AGCUUUAAGGGCCAAUUCUGCUGUCAAAUUACAGAAUAAUG
+AGCUUAGUCCUGUUGCACUACGACAGAUGUCUUGUGCU
+..((((((((((............(((((.((((..((....)
+)..)))))))))((((((.((......))))))))..))))
+.)).))))....((((...(((....)))..)))).
+-1.94 0.978
+SARS-CoV-2-
+conservedstructured-52
+19645-19764 UUGUAAAUAAGGGACACUUUGAUGGACAACAGGGUGAAGUA
+CCAGUUUCUAUCAUUAAUAACACUGUUUACACAAAAGUUGA
+UGGUGUUGAUGUAGAAUUGUUUGAAAAUAAAACAACAU
+...(((((((...(((...(((((((.(((.((........)
+).))))))))))....((((((((((.((......)).)))
+))))))).)))....)))))))...............
+-0.89 0.977
+SARS-CoV-2-
+conservedstructured-53
+11050-11169 CAGAGUACUCAAUGGUCUUUGUUCUUUUUUUUGUAUGAAAA
+UGCCUUUUUACCUUUUGCUAUGGGUAUUAUUGCUAUGUCU
+GCUUUUGCAAUGAUGUUUGUCAAACAUAAGCAUGCAUUU
+(((((.(((....))))))))..........((((((.....
+((..(..(((((........)))))..)..))(((((.(((.
+...))).((((....)))).)))))..))))))...
+-0.33 0.977
+SARS-CoV-2-
+conservedstructured-54
+17445-17564 CAAUUACCUGCACCACGCACAUUGCUAACUAAGGGCACACU
+AGAACCAGAAUAUUUCAAUUCAGUGUGUAGACUUAUGAAAA
+CUAUAGGUCCAGACAUGUUCCUCGGAACUUGUCGGCGU
+.........((.((((((((..((((.......))))......
+.....((((......)))).)))))).((((((((.....))
+))))))..((((.((((....)))).)))))).))
+-2.14 0.974
+SARS-CoV-2-
+conservedstructured-55
+24256-24375 GCUAUGCAAAUGGCUUAUAGGUUUAAUGGUAUUGGAGUUAC
+ACAGAAUGUUCUCUAUGAGAACCAAAAAUUGAUUGCCAACC
+AAUUUAAUAGUGCUAUUGGCAAAAUUCAAGACUCACUU
+(((((....)))))....................(((((.....
+....((((((...))))))......(((((((((((...(((
+....)))....)))))))...)))))))))....
+-0.32 0.974
+SARS-CoV-2-
+conservedstructured-56
+17525-17644 AACUAUAGGUCCAGACAUGUUCCUCGGAACUUGUCGGCGUU
+GUCCUGCUGAAAUUGUUGACACUGUGAGUGCUUUGGUUUA
+UGAUAAUAAGCUUAAAGCACAUAAAGACAAAUCAGCUCA
+......(((.((.((((.((((....)))).)))))).....
+.)))(((((..(((((.......((.((((((((((((((.
+...)))))).)))))))).))..))))).)))))...
+-2.22 0.973
+SARS-CoV-2-
+conservedstructured-57
+27248-27367 AAUUAUUAUGAGGACUUUUAAAGUUUCCAUUUGGAAUCUUG
+AUUACAUCAUAAACCUCAUAAUUAAAAAUUUAUCUAAGUCAC
+UAACUGAGAAUAAAUAUUCUCAAUUAGAUGAAGAGCA
+....(((((((((.......(((.((((....)))).)))((
+(...))).....)))))))))...........((...((((((
+(.(((((((....))))))).)))).)))..))..
+-3.72 0.972
+SARS-CoV-2-
+conservedstructured-58
+4574-4693 CACUUAACGAUCUAAAUGAAACUCUUGUUACAAUGCCACUU
+GGCUAUGUAACACAUGGCUUAAAUUUGGAAGAAGCUGCUCG
+GUAUAUGAGAUCUCUCAAAGUGCCAGCUACAGUUUCUG
+..........(((((((..((..(.(((((((..(((....))
+)..)))))))...)..))..)))))))((((((((((.(((
+((.((((....))))..))))))))...))))))).
+-3.73 0.971
+SARS-CoV-2-
+conservedstructured-59
+21325-21444 UCAUGCAUGCAAAUUACAUAUUUUGGAGGAAUACAAAUCCA
+AUUCAGUUGUCUUCCUAUUCUUUAUUUGACAUGAGUAAAUU
+UCCCCUUAAAUUAAGGGGUACUGCUGUUAUGUCUUUAA
+.(((((((((((((.....((...((((((..((........
+....))..)))))).)).....))))).))))((((.....(
+((((((...)))))))...))))..)))).......
+-1.24 0.970
+SARS-CoV-2-
+conservedstructured-60
+7771-7890 CUUUACUUUGAUAAAGCUGGUCAAAAGACUUAUGAAAGACA
+UUCUCUCUCUCAUUUUGUUAACUUAGACAACCUGAGAGCUA
+AUAACACUAAAGGUUCAUUGCCUAUUAAUGUUAUAGUU
+.....((((.((((..((.......))..)))).)))).....
+....((((((..(((((......)))))..))))))...(((
+(((.(((((((.....)))).))).))))))....
+-1.93 0.967
+SARS-CoV-2-
+conservedstructured-61
+19765-19884 UACCUGUUAAUGUAGCAUUUGAGCUUUGGGCUAAGCGCAAC
+AUUAAACCAGUACCAGAGGUGAAAAUACUCAAUAAUUUGGG
+UGUGGACAUUGCUGCUAAUACUGUGAUCUGGGACUACA
+..(((.(((((((.((.(((.(((.....)))))).)).))
+))))).((((((.(((..(((...((((((((....)))))
+)))...)))..)))....))))).)....)))......
+-0.84 0.965
+SARS-CoV-2-
+conservedstructured-62
+6971-7090 UAAGUGUUUGCCUAGGUUCUUUAAUCUACUCAACCGCUGCU
+UUAGGUGUUUUAAUGUCUAAUUUAGGCAUGCCUUCUUACUG
+UACUGGUUACAGAGAAGGCUAUUUGAACUCUACUAAUG
+..((((.(((..((((((....))))))..))).))))....
+((((.((((..(((((((...)))))))(((((((..(((
+((.....)))))))))))).....))))))))......
+-1.9 0.963
+SARS-CoV-2-
+conservedstructured-63
+28998-29117 AGGCCAAACUGUCACUAAGAAAUCUGCUGCUGAGGCUUCUA
+AGAAGCCUCGGCAAAAACGUACUGCCACUAAAGCAUACAAU
+GUAACACAAGCUUUCGGCAGACGUGGUCCAGAACAAAC
+.((((......................((((((((((((...)
+)))))))))))...((((.(((((...(((((..........
+......))))).)))))))))))))..........
+-4.19 0.963
+SARS-CoV-2-
+conservedstructured-64
+5011-5130 GUUGUGGACAUGUCAAUGACAUAUGGACAACAGUUUGGUCC
+AACUUAUUUGGAUGGAGCUGAUGUUACUAAAAUAAAACCUC
+AUAAUUCACAUGAAGGUAAAACAUUUUAUGUUUUACCU
+..((((((.(((((...)))))...((((.((((((.((((
+((.....)))))).)))))).))))..................
+..))))))...(((((((((((...)))))))))))
+-4.19 0.963
+SARS-CoV-2-
+conservedstructured-65
+4094-4213 CUUUCUUAAAGAAAGAUGCUCCAUAUAUAGUGGGUGAUGUU
+GUUCAAGAGGGUGUUUUAACUGCUGUGGUUAUACCUACUAA
+AAAGGCUGGUGGCACUACUGAAAUGCUAGCGAAAGCUU
+..(((((.((.((...(((.((((.....)))))))...)).
+)).)))))(((((((((......(((((..((((..((....
+.))..))))..))))))))))))))(((....))).
+0.4 0.958
+SARS-CoV-2-
+conservedstructured-66
+1598-1717 GUCUUAAUGACAACCUUCUUGAAAUACUCCAAAAAGAGAAAG
+UCAACAUCAAUAUUGUUGGUGACUUUAAACUUAAUGAAGAG
+AUCGCCAUUAUUUUGGCAUCUUUUUCUGCUUCCACAA
+(((.....)))...((((((((....(((......)))((((
+(((.((.((....)).)).)))))))....)))).))))((
+((.((((......))))))))................
+-2 0.955
+SARS-CoV-2-
+conservedstructured-67
+11090-11209 AUGCCUUUUUACCUUUUGCUAUGGGUAUUAUUGCUAUGUCU
+GCUUUUGCAAUGAUGUUUGUCAAACAUAAGCAUGCAUUUCU
+CUGUUUGUUUUUGUUACCUUCUCUUGCCACUGUAGCUU
+.................(((((((.(((((((((...(....)
+....))))))))).......((((.(((((.(((......))
+).))))).))))..............)))))))..
+-1.63 0.955
+SARS-CoV-2-
+conservedstructured-68
+17965-18084 CUGAUAGAGACCUUUAUGACAAGUUGCAAUUUACAAGUCUU
+GAAAUUCCACGUAGGAAUGUGGCAACUUUACAAGCUGAAAA
+UGUAACAGGACUCUUUAAAGAUUGUAGUAAGGUAAUCA
+..(((....(((((....((((((((((.(((...((.((((
+(((((((((((....)))))).)).))).)))))).))).)
+))))).....(((....)))))))...))))).))).
+-0.96 0.952
+SARS-CoV-2-
+conservedstructured-69
+25815-25934 GAUGCCAACUAUUUUCUUUGCUGGCAUACUAAUUGUUACGA
+CUAUUGUAUACCUUACAAUAGUGUAACUUCUUCAAUUGUCA
+UUACUUCAGGUGAUGGCACAACAAGUCCUAUUUCUGAA
+.((((((.(..........).)))))).......(((((.(((
+((((((.....)))))))))))))).........(((((((
+((.....)))))))))....................
+-4.17 0.952
+SARS-CoV-2-
+conservedstructured-70
+14446-14565 AUGGUGUUCCAUUUGUAGUUUCAACUGGAUACCACUUCAGA
+GAGCUAGGUGUUGUACAUAAUCAGGAUGUAAACUUACAUAG
+CUCUAGACUUAGUUUUAAGGAAUUACUUGUGUAUGCUG
+..(((((..(((..((((((((..(((((......)))))(
+((((((.(((...(((((.......)))))....))).))))
+)))..............))))))))..))).))))).
+-1.41 0.948
+SARS-CoV-2-
+conservedstructured-71
+2118-2237 CACUGUUUAUGAAAAACUCAAACCCGUCCUUGAUUGGCUUG
+AAGAGAAGUUUAAGGAAGGUGUAGAGUUUCUUAGAGACGGU
+UGGGAAAUUGUUAAAUUUAUCUCAACCUGUGCUUGUGA
+(((.((((.(((.((((((..(((..(((((((...((((.
+.....))))))))))).)))...)))))).))).))))(((
+(((((((((....))))..)))))))).......))).
+-2.75 0.948
+SARS-CoV-2-
+conservedstructured-72
+17205-17324 UAUUUGCCUAUAGAUAAAUGUAGUAGAAUUAUACCUGCACG
+UGCUCGUGUAGAGUGUUUUGAUAAAUUCAAAGUGAAUUCAA
+CAUUAGAACAGUAUGUCUUUUGUACUGUAAAUGCAUUG
+((((((....))))))((((((((.(((((((((((((((
+(....))))))).))))(((((.....)))))...))))).
+))......((((((((.....))))))))...)))))).
+-2.61 0.947
+SARS-CoV-2-
+conservedstructured-73
+7171-7290 UCUUUAGAAACUAUACAAAUUACCAUUUCAUCUUUUAAAUGG
+GAUUUAACUGCUUUUGGCUUAGUUGCAGAGUGGUUUUUGG
+CAUAUAUUCUUUUCACUAGGUUUUUCUAUGUACUUGGA
+...(((((((((((..(((((.((((((........)))))
+))))))..((((..(((...)))..)))).)))))))))))
+...............((((((..........)))))).
+-0.53 0.945
+SARS-CoV-2-
+conservedstructured-74
+14766-14885 GCUCAGGAUGGUAAUGCUGCUAUCAGCGAUUAUGACUACUA
+UCGUUAUAAUCUACCAACAAUGUGUGAUAUCAGACAACUAC
+UAUUUGUAGUUGAAGUUGUUGAUAAGUACUUUGAUUGU
+(((...(((((((....))))))))))(((((((((.....
+..)))))))))...(((((((((.((....)).))((((((
+.....))))))...))))))).................
+-2.13 0.943
+SARS-CoV-2-
+conservedstructured-75
+11730-11849 UAUGAAUUCACAGGGACUACUCCCACCCAAGAAUAGCAUAG
+AUGCCUUCAAACUCAACAUUAAAUUGUUGGGUGUUGGUGGC
+AAACCUUGUAUCAAAGUAGCCACUGUACAGUCUAAAAU
+...((....((((((.(((((......((((...........(
+(((.((((((((((((......)))))))).)))).)))).
+..))))......))))))).))))....))......
+-1.59 0.942
+SARS-CoV-2-
+conservedstructured-76
+29238-29357 GGAAGUCACACCUUCGGGAACGUGGUUGACCUACACAGGU
+GCCAUCAAAUUGGAUGACAAAGAUCCAAAUUUCAAAGAUCAA
+GUCAUUUUGCUGAAUAAGCAUAUUGACGCAUACAAAAC
+....((((.(((..((....)).)))))))........((((.
+......((((((.......))))))..............((((.
+..((((.....))))...)))))))).......
+-1.58 0.941
+SARS-CoV-2-
+conservedstructured-77
+1558-1677 GGUUGUAACCAUACAGGUGUUGUUGGAGAAGGUUCCGAAG
+GUCUUAAUGACAACCUUCUUGAAAUACUCCAAAAAGAGAAAG
+UCAACAUCAAUAUUGUUGGUGACUUUAAACUUAAUGAA
+(((....))).....((.((..((.(((((((((......((
+(.....)))))))))))).))..)).))...(((..(((((
+((.((.((....)).)).)))))))...)))......
+-1.18 0.941
+SARS-CoV-2-
+conservedstructured-78
+4214-4333 UGAGAAAAGUGCCAACAGACAAUUAUAUAACCACUUACCCG
+GGUCAGGGUUUAAAUGGUUACACUGUAGAGGAGGCAAAGAC
+AGUGCUUAAAAAGUGUAAAAGUGCCUUUUACAUUCUAC
+..((((.((((................((((((...((((...
+...)))).....))))))))))(((((..(((((...(((.
+(........).))).....)))))))))).))))..
+-0.39 0.940
+SARS-CoV-2-
+conservedstructured-79
+9410-9529 CUGGUGGUAUUGUAGCUAUCGUAGUAACAUGCCUUGCCUA
+CUAUUUUAUGAGGUUUAGAAGAGCUUUUGGUGAAUACAGUC
+AUGUAGUUGCCUUUAAUACUUUACUAUUCCUUAUGUCAU
+..((((((((.((.((((...)))).)))))))..)))...
+.....(((((((..(((.((((..((.((..(.((((....)
+))).)..))...))..)))).)))..)))))))....
+-1.74 0.940
+SARS-CoV-2-
+conservedstructured-80
+13806-13925 ACAAUGGCAGACCUCGUCUAUGCUUUAAGGCAUUUUGAUGA
+AGGUAAUUGUGACACAUUAAAAGAAAUACUUGUCACAUACAA
+UUGUUGUGAUGAUGAUUAUUUCAAUAAAAAGGACUGG
+(((((.....((((((((.(((((....)))))...)))).
+)))).)))))............((((((.(..((((((((..
+..).)))).)))..).))))))...............
+-1.73 0.940
+SARS-CoV-2-
+conservedstructured-81
+23537-23656 CAUAUGAGUGUGACAUACCCAUUGGUGCAGGUAUAUGCGCU
+AGUUAUCAGACUCAGACUAAUUCUCCUCGGCGGGCACGUAG
+UGUAGCUAGUCAAUCCAUCAUUGCCUACACUAUGUCAC
+....(((((.(((.......(((((((((......)))))))
+))..))).)))))..........((.....))(.((((((((
+(((.((((.........)))).))))))))))))..
+-0.51 0.940
+SARS-CoV-2-
+conservedstructured-82
+9210-9329 GUACUGUAGGCACGGCACUUGUGAAAGAUCAGAAGCUGGU
+GUUUGUGUAUCUACUAGUGGUAGAUGGGUACUUAACAAUGA
+UUAUUACAGAUCUUUACCAGGAGUUUUCUGUGGUGUAGA
+(((((.(((((((.(..(((.(((....))).))).).)))
+))))..(((((((.....))))))))))))...........(
+((((((((.((((....))))...)))))))))....
+-0.31 0.939
+SARS-CoV-2-
+conservedstructured-83
+6091-6210 CAGUUAACUGGUUAUAAGAAACCUGCUUCAAGAGAGCUUAA
+AGUUACAUUUUUCCCUGACUUAAAUGGUGAUGUGGUGGCUA
+UUGAUUAUAAACACUACACACCCUCUUUUAAGAAAGGA
+..((.((((((((......)))).((((.....))))....)
+))))).......(((..((((((.((((.(((((((..(((
+.....)))..)))))))))))....))))))..))).
+-2.57 0.939
+SARS-CoV-2-
+conservedstructured-84
+29118-29237 CCAAGGAAAUUUUGGGGACCAGGAACUAAUCAGACAAGGAA
+CUGAUUACAAACAUUGGCCGCAAAUUGCACAAUUUGCCCCC
+AGCGCUUCAGCGUUCUUCGGAAUGUCGCGCAUUGGCAU
+((((........(((((.((((....(((((((........))
+)))))......))))..(((((((....))))))))))))(
+(((....((((((....)))))).)))).))))...
+-3.14 0.938
+SARS-CoV-2-
+conservedstructured-85
+28958-29077 AGCUUGAGAGCAAAAUGUCUGGUAAAGGCCAACAACAACAA
+GGCCAAACUGUCACUAAGAAAUCUGCUGCUGAGGCUUCUAA
+GAAGCCUCGGCAAAAACGUACUGCCACUAAAGCAUACA
+.((((.((.(((..((((..((((..((((...........)
+)))...((.......)).....))))(((((((((((...))
+)))))))))....))))..)))..)).)))).....
+-2.78 0.935
+SARS-CoV-2-
+conservedstructured-86
+29278-29397 GCCAUCAAAUUGGAUGACAAAGAUCCAAAUUUCAAAGAUCAA
+GUCAUUUUGCUGAAUAAGCAUAUUGACGCAUACAAAACAUU
+CCCACCAACAGAGCCUAAAAAGGACAAAAAGAAGAAG
+.........((((((.......)))))).((((.........(
+(((...((((.....))))...))))..................
+........((((....))).).....))))...
+-1.58 0.935
+SARS-CoV-2-
+conservedstructured-87
+14046-14165 GGUGUACUGACAUUAGAUAAUCAAGAUCUCAAUGGUAACUG
+GUAUGAUUUCGGUGAUUUCAUACAAACCACGCCAGGUAGUG
+GAGUUCCUGUUGUAGAUUCUUAUUAUUCAUUGUUAAUG
+.......(((((.(..(((((.(((((((((((((.((((.
+((((((..((...))..))))))...((((........))))
+)))).)))))).))).)))))))))..).)))))...
+-2.05 0.935
+SARS-CoV-2-
+conservedstructured-88
+9250-9369 GUUUGUGUAUCUACUAGUGGUAGAUGGGUACUUAACAAUGA
+UUAUUACAGAUCUUUACCAGGAGUUUUCUGUGGUGUAGAUG
+CUGUAAAUUUACUUACUAAUAUGUUUACACCACUAAUU
+(((...((((((((((....))).)))))))..)))......
+....(((((.((((....))))...)))))(((((((((...
+((((......))))......))))))))).......
+-0.53 0.934
+SARS-CoV-2-
+conservedstructured-89
+26415-26527 GUUUACUCUCGUGUUAAAAAUCUGAAUUCUUCUAGAGUUCC
+UGAUCUUCUGGUCUAAACGAACUAAAUAUUAUAUUAGUUUU
+UCUGUUUGGAACUUUAAUUUUAGCCAUGGCA
+........(((((((((((....((.....))(((((((((.
+((((....)))).(((((((((((........)))))))...
+.))))))))))))).)))))).)))))..
+-1.94 0.934
+SARS-CoV-2-
+conservedstructured-90
+14846-14965 ACUAUUUGUAGUUGAAGUUGUUGAUAAGUACUUUGAUUGUU
+ACGAUGGUGGCUGUAUUAAUGCUAACCAAGUCAUCGUCAAC
+AACCUAGACAAAUCAGCUGGUUUUCCAUUUAAUAAAUG
+..........((((((...((((((..((.((..(.(((((..
+((((((((((...(((....)))...)))))))))))))))
+)..))))..))))))(((....))))))))).....
+-0.79 0.934
+SARS-CoV-2-
+conservedstructured-91
+4971-5090 GGUGUUUACAACAGUAGACAACAUUAACCUCCACACGCAAG
+UUGUGGACAUGUCAAUGACAUAUGGACAACAGUUUGGUCCA
+ACUUAUUUGGAUGGAGCUGAUGUUACUAAAAUAAAACC
+(((((((((....))))))(((((...(((((((((....)
+.)))))).(((((...)))))..))....((((((.(((((
+(.....)))))).)))))))))))...........)))
+-3.72 0.932
+SARS-CoV-2-
+conservedstructured-92
+9610-9729 CUUACUAAUGAUGUUUCUUUUUUAGCACAUAUUCAGUGGAU
+GGUUAUGUUCACACCUUUAGUACCUUUCUGGAUAACAAUUG
+CUUAUAUCAUUUGUAUUUCCACAAAGCAUUUCUAUUGG
+.......(((.((((........))))))).....((((((..
+....)))))).((..(((...((((.((((..((((.((...
+....)).))))...)))).)))).....)))..))
+-0.85 0.932
+SARS-CoV-2-
+conservedstructured-93
+5691-5810 ACCACCUGCUCAGUAUGAACUUAAGCAUGGUACAUUUACUU
+GUGCUAGUGAGUACACUGGUAAUUACCAGUGUGGUCACUAU
+AAACAUAUAACUUCUAAAGAAACUUUGUAUUGCAUAGA
+...(((((((.(((....)))..)))).)))........(((
+(((((((((.(((((((((....))))))))).)))))).
+....((((((.(((....)))...)))))).)))))).
+-3.18 0.931
+SARS-CoV-2-
+conservedstructured-94
+25016-25135 UAGAUAAAUAUUUUAAGAAUCAUACAUCACCAGAUGUUGAUU
+UAGGUGACAUCUCUGGCAUUAAUGCUUCAGUUGUAAACAUU
+CAAAAAGAAAUUGACCGCCUCAAUGAGGUUGCCAAGA
+.((((...........((((((.(((((....))))))))))
+).(....))))).(((((........((((((...........
+......))))))..(((((...))))))))))...
+-1.16 0.926
+SARS-CoV-2-
+conservedstructured-95
+6411-6530 AGAAGUAGUGGAAAAUCCUACCAUACAGAAAGACGUUCUUG
+AGUGUAAUGUGAAAACUACCGAAGUUGUAGGAGACAUUAUA
+CUUAAACCAGCAAAUAAUAGUUUAAAAAUUACAGAAGA
+....(((((((.....))................(((.(((((
+((((((((.....((((.......))))...)))))))))))
+))...)))................)))))......
+-1.1 0.922
+SARS-CoV-2-
+conservedstructured-96
+26608-26727 UACAUGGAUUUGUCUUCUACAAUUUGCCUAUGCCAACAGGA
+AUAGGUUUUUGUAUAUAAUUAAGUUAAUUUUCCUCUGGCUG
+UUAUGGCCAGUAACUUUAGCUUGUUUUGUGCUUGCUGC
+..((..((.........(((((...((((((.((....)).))
+))))..)))))......((((((((.......((((((....
+.)))))).....)))))))).))..))........
+-1.64 0.922
+SARS-CoV-2-
+conservedstructured-97
+11010-11129 GUUGUUACUCACAAUUUUGACUUCACUUUUAGUUUUAGUCC
+AGAGUACUCAAUGGUCUUUGUUCUUUUUUUUGUAUGAAAAU
+GCCUUUUUACCUUUUGCUAUGGGUAUUAUUGCUAUGUC
+..((.(((((...(((..((((........))))..)))...)
+))))..))(((((................((((....))))..
+...(((((........))))).....)))))...
+0.12 0.922
+SARS-CoV-2-
+conservedstructured-98
+10850-10969 CUUCAUUAAAAGAAUUACUGCAAAAUGGUAUGAAUGGACGU
+ACCAUAUUGGGUAGUGCUUUAUUAGAAGAUGAAUUUACACC
+UUUUGAUGUUGUUAGACAAUGCUCAGGUGUUACUUUCC
+((((....((((.((((((.(((.((((((((......)))
+))))).))))))))).))))....))))..(((...(((((
+(...(.(((((.....))))))..))))))....))).
+-2.67 0.920
+SARS-CoV-2-
+conservedstructured-99
+14886-15005 UACGAUGGUGGCUGUAUUAAUGCUAACCAAGUCAUCGUCAA
+CAACCUAGACAAAUCAGCUGGUUUUCCAUUUAAUAAAUGGG
+GUAAGGCUAGACUUUAUUAUGAUUCAAUGAGUUAUGAG
+...((((((((((...(((....)))...))))))))))...
+............((((((....(((((((.....)))))))..
+.)))).)).....(((((((((...))))))))).
+-1.33 0.919
+SARS-CoV-2-
+conservedstructured-100
+25216-25335 GGUUUUAUAGCUGGCUUGAUUGCCAUAGUAAUGGUGACAAU
+UAUGCUUUGCUGUAUGACCAGUUGCUGUAGUUGUCUCAAG
+GGCUGUUGUUCUUGUGGAUCCUGCUGCAAAUUUGAUGAA
+((((.((((((.(((.((((((((((....))))...))))
+)).)))..)))))).))))..((((.((((..(((((((((
+((....))))))).)))).)))).))))..........
+-3.78 0.916
+SARS-CoV-2-
+conservedstructured-101
+11690-11809 GUGUUUAUGAUUACUUAGUUUCUACACAGGAGUUUAGAUAU
+AUGAAUUCACAGGGACUACUCCCACCCAAGAAUAGCAUAGA
+UGCCUUCAAACUCAACAUUAAAUUGUUGGGUGUUGGUG
+(((((((((....(((.............(((((((......)
+))))))...((((....))))....))).....)))))))))
+..((((((((((((......)))))))).))))..
+-1.17 0.913
+SARS-CoV-2-
+conservedstructured-102
+5251-5370 GGUUUAACUUCUAUUAAAUGGGCAGAUAACAACUGUUAUCU
+UGCCACUGCAUUGUUAACACUCCAACAAAUAGAGUUGAAGU
+UUAAUCCACCUGCUCUACAAGAUGCUUAUUACAGAGCA
+((...((((((.(((.....((((((((((....)))))).
+)))).(((..(((((........))))).)))))).)))))
+)....))....(((((..((........))..))))).
+-2.28 0.912
+SARS-CoV-2-
+conservedstructured-103
+1198-1317 UGCAACCAAAUGUGCCUUUCAACUCUCAUGAAGUGUGAUCA
+UUGUGGUGAAACUUCAUGGCAGACGGGCGAUUUUGUUAAA
+GCCACUUGCGAAUUUUGUGGCACUGAGAAUUUGACUAAA
+......((((((((((...(((....((((((((.(.(((..
+...))).).))))))))((((...(((............))).
+.)))).....))).))))).....)))))......
+-0.42 0.910
+SARS-CoV-2-
+conservedstructured-104
+28758-28877 UCAAGGAACAACAUUGCCAAAAGGCUUCUACGCAGAAGGGA
+GCAGAGGCGGCAGUCAAGCCUCUUCUCGUUCCUCAUCACG
+UAGUCGCAACAGUUCAAGAAAUUCAACUCCAGGCAGCAG
+.............(((((.....((..(((((.....((((((
+(((((.(((......))).))))).)))))).....))))).
+.))...((((.((....)).))))...)))))...
+-3.57 0.910
+SARS-CoV-2-
+conservedstructured-105
+17765-17884 CUUUAUUUCACCUUAUAAUUCACAGAAUGCUGUAGCCUCAA
+AGAUUUUGGGACUACCAACUCAAACUGUUGAUUCAUCACAG
+GGCUCAGAAUAUGACUAUGUCAUAUUCACUCAAACCAC
+.....................((((....))))((((.....((
+..((((.....)))).))...((((.((....))))))))))
+..(((((((((...)))))))))...........
+-2.03 0.903
+SARS-CoV-2-
+conservedstructured-106
+22101-22218 AGGAAAACAGGGUAAUUUCAAAAAUCUUAGGGAAUUUGUGU
+UUAAGAAUAUUGAUGGUUAUUUUAAAAUAUAUUCUAAGCACA
+CGCCUAUUAAUUUAGUGCGUGAUCUCCCUCAGGGU
+.......................((((((((((....(((((((
+.((((((..................)))))))))))))((((
+(((......))).))))....))))).)))))
+-1.7 0.900
