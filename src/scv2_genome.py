@@ -1,3 +1,7 @@
+"""
+Functions to process SCV2 data
+"""
+
 from Bio import SeqIO
 import pandas as pd
 

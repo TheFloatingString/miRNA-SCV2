@@ -1,3 +1,7 @@
+"""
+Finding complementary sequences for DNA and RNA
+"""
+
 dna_complements = {
 	'A':'T',
 	'C':'G',

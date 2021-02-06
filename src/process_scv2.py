@@ -1,3 +1,7 @@
+"""
+Visualize heatmap of binding locations
+"""
+
 import pandas as pd
 from src.scv2_genome import *
 import matplotlib.pyplot as plt
