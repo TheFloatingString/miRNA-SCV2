@@ -1,0 +1,355 @@
+Inital number: 900
+Number of literature: 788
+Number of final: 169
+                  name   score  n_protein  n_seed_locations
+0       hsa-miR-195-5p  1089.0         11                16
+2       hsa-miR-15b-5p  1089.0         11                16
+3       hsa-miR-15a-5p  1089.0         11                16
+4       hsa-miR-497-5p  1078.0         11                16
+5       hsa-miR-424-5p  1078.0         11                16
+6        hsa-miR-21-3p  1078.0         11                22
+1        hsa-miR-16-5p  1089.0         11                16
+33      hsa-miR-33a-3p   880.0         10                16
+39         hsa-miR-107   765.0          9                12
+8      hsa-miR-302c-5p   873.0          9                18
+40     hsa-miR-103a-3p   765.0          9                12
+34      hsa-miR-497-3p   696.0          8                12
+12      hsa-miR-545-3p   760.0          8                12
+38      hsa-miR-675-3p   680.0          8                10
+26     hsa-miR-200a-3p   630.0          7                10
+58     hsa-miR-519c-3p   560.0          7                11
+45      hsa-miR-503-5p   574.0          7                12
+49      hsa-miR-183-3p   567.0          7                10
+22      hsa-miR-141-3p   637.0          7                10
+69         hsa-miR-297   539.0          7                 8
+24      hsa-miR-653-5p   630.0          7                13
+84       hsa-miR-32-3p   504.0          7                11
+18      hsa-miR-505-3p   665.0          7                11
+14      hsa-miR-30b-5p   665.0          7                14
+15      hsa-miR-30e-5p   665.0          7                14
+16      hsa-miR-30d-5p   665.0          7                14
+17      hsa-miR-30a-5p   665.0          7                14
+13      hsa-miR-30c-5p   665.0          7                14
+56         hsa-miR-421   480.0          6                11
+131     hsa-miR-495-5p   360.0          6                 8
+21      hsa-miR-495-3p   552.0          6                17
+73     hsa-miR-376a-3p   456.0          6                11
+59      hsa-miR-100-3p   474.0          6                12
+74      hsa-miR-144-3p   380.0          5                11
+10      hsa-miR-409-3p   480.0          5                12
+79      hsa-miR-452-5p   370.0          5                 6
+144     hsa-miR-214-5p   275.0          5                 5
+143     hsa-miR-214-3p   280.0          5                 6
+70        hsa-miR-3143   385.0          5                11
+63      hsa-miR-30e-3p   395.0          5                 9
+64      hsa-miR-30d-3p   395.0          5                 9
+50      hsa-miR-145-5p   405.0          5                 8
+65      hsa-miR-30a-3p   395.0          5                 9
+139       hsa-miR-9-3p   285.0          5                 7
+66    hsa-miR-29b-1-5p   395.0          5                10
+110     hsa-miR-452-3p   335.0          5                 7
+118     hsa-miR-542-3p   325.0          5                 8
+132     hsa-miR-29a-5p   300.0          5                 8
+115    hsa-miR-6510-5p   325.0          5                 7
+36      hsa-miR-222-5p   430.0          5                11
+32      hsa-miR-330-3p   445.0          5                10
+112     hsa-miR-338-3p   330.0          5                 7
+67      hsa-miR-380-3p   316.0          4                 9
+123     hsa-miR-19a-5p   248.0          4                 5
+116     hsa-miR-128-3p   260.0          4                 6
+9      hsa-miR-548a-5p   384.0          4                15
+72      hsa-miR-494-3p   304.0          4                 7
+107     hsa-miR-27a-3p   268.0          4                 7
+109     hsa-miR-136-5p   268.0          4                 7
+96     hsa-miR-199b-3p   276.0          4                 7
+106     hsa-miR-27b-3p   268.0          4                 7
+87      hsa-miR-432-5p   284.0          4                 5
+104     hsa-miR-192-3p   272.0          4                 6
+130    hsa-miR-148a-5p   244.0          4                 8
+93      hsa-miR-195-3p   276.0          4                 8
+138       hsa-miR-1-5p   232.0          4                 5
+97     hsa-miR-199a-3p   276.0          4                 7
+122    hsa-miR-548a-3p   252.0          4                 8
+48        hsa-miR-103b   324.0          4                 8
+35      hsa-miR-493-5p   344.0          4                11
+46      hsa-miR-197-3p   328.0          4                 9
+57       hsa-let-7c-3p   320.0          4                12
+42      hsa-miR-101-3p   332.0          4                 8
+41      hsa-miR-579-3p   336.0          4                 7
+11      hsa-miR-186-5p   380.0          4                16
+137   hsa-miR-92a-1-5p   174.0          3                 6
+136     hsa-miR-132-3p   177.0          3                 6
+135     hsa-miR-212-3p   177.0          3                 6
+134     hsa-miR-140-3p   177.0          3                 6
+37      hsa-miR-582-3p   258.0          3                 9
+129       hsa-miR-3134   183.0          3                 5
+47      hsa-miR-485-3p   243.0          3                 6
+108     hsa-miR-122-5p   201.0          3                 3
+160     hsa-miR-223-5p   156.0          3                 4
+128     hsa-miR-15b-3p   183.0          3                 4
+127     hsa-miR-532-5p   183.0          3                 5
+27      hsa-miR-194-5p   270.0          3                13
+165     hsa-miR-155-5p   153.0          3                 4
+117     hsa-miR-362-3p   195.0          3                 5
+25        hsa-miR-302e   270.0          3                 4
+166     hsa-miR-182-5p   153.0          3                 4
+157     hsa-miR-215-3p   156.0          3                 5
+71      hsa-miR-379-3p   228.0          3                 8
+85         hsa-miR-466   216.0          3                 5
+60        hsa-miR-3941   237.0          3                 6
+75     hsa-miR-302b-5p   228.0          3                10
+55      hsa-miR-20a-3p   240.0          3                10
+53     hsa-miR-302a-3p   243.0          3                 4
+7    hsa-miR-196a-1-3p   291.0          3                20
+77     hsa-miR-130a-5p   225.0          3                 7
+78      hsa-miR-373-3p   222.0          3                 4
+86      hsa-miR-494-5p   216.0          3                 8
+52     hsa-miR-302b-3p   243.0          3                 4
+51     hsa-miR-302c-3p   243.0          3                 4
+121     hsa-miR-367-5p   192.0          3                 7
+142     hsa-miR-154-3p   168.0          3                 6
+152     hsa-miR-15a-3p   108.0          2                 5
+124     hsa-miR-380-5p   124.0          2                 5
+148    hsa-miR-6740-3p   110.0          2                 3
+164     hsa-miR-331-5p   102.0          2                 6
+140     hsa-miR-217-3p   114.0          2                 4
+147     hsa-miR-582-5p   110.0          2                 7
+159     hsa-miR-424-3p   104.0          2                 4
+153     hsa-miR-373-5p   106.0          2                 4
+151       hsa-miR-1-3p   108.0          2                 4
+146   hsa-miR-26a-1-3p   110.0          2                 3
+145     hsa-miR-140-5p   110.0          2                 5
+155        hsa-miR-760   106.0          2                 3
+154    hsa-miR-371b-5p   106.0          2                 4
+141     hsa-miR-338-5p   114.0          2                 7
+150        hsa-miR-206   108.0          2                 4
+168     hsa-miR-875-5p   100.0          2                 5
+68      hsa-miR-145-3p   156.0          2                 3
+83      hsa-miR-340-5p   146.0          2                 8
+92        hsa-miR-1244   140.0          2                 8
+31      hsa-miR-335-3p   178.0          2                10
+23      hsa-miR-29a-3p   182.0          2                10
+89      hsa-miR-511-5p   140.0          2                 7
+99         hsa-miR-198   136.0          2                 4
+100    hsa-miR-16-1-3p   136.0          2                 6
+88     hsa-miR-302a-5p   142.0          2                 7
+43      hsa-miR-139-5p   166.0          2                12
+44      hsa-miR-142-5p   164.0          2                 9
+80      hsa-miR-361-5p   148.0          2                 6
+111     hsa-miR-126-5p   132.0          2                 8
+54       hsa-miR-28-3p   160.0          2                 3
+19      hsa-miR-29c-3p   184.0          2                10
+20      hsa-miR-29b-3p   184.0          2                10
+91      hsa-miR-590-3p   140.0          2                10
+156    hsa-miR-196a-5p    52.0          1                 1
+61      hsa-miR-23b-3p    79.0          1                 4
+120    hsa-miR-6833-5p    64.0          1                 4
+62      hsa-miR-23a-3p    79.0          1                 4
+30     hsa-miR-148a-3p    89.0          1                 7
+29     hsa-miR-148b-3p    89.0          1                 7
+161     hsa-miR-210-3p    52.0          1                 3
+162    hsa-miR-193b-3p    52.0          1                 2
+163    hsa-miR-193a-3p    52.0          1                 2
+28      hsa-miR-152-3p    89.0          1                 7
+167     hsa-miR-150-3p    50.0          1                 4
+158    hsa-let-7f-1-3p    52.0          1                 5
+82     hsa-miR-320a-3p    73.0          1                 5
+149    hsa-miR-9851-3p    54.0          1                 3
+102     hsa-miR-26a-5p    68.0          1                 5
+114     hsa-miR-142-3p    65.0          1                 3
+125      hsa-miR-31-5p    61.0          1                 4
+126      hsa-let-7g-3p    61.0          1                 9
+113     hsa-miR-511-3p    65.0          1                 2
+105     hsa-miR-454-3p    67.0          1                 7
+103     hsa-miR-33a-5p    68.0          1                 6
+101     hsa-miR-26b-5p    68.0          1                 5
+76      hsa-miR-34c-3p    75.0          1                 5
+133     hsa-miR-138-5p    59.0          1                 3
+98     hsa-miR-7110-3p    69.0          1                 1
+94     hsa-miR-130b-3p    69.0          1                 7
+90      hsa-miR-324-3p    70.0          1                 4
+119     hsa-miR-574-5p    64.0          1                 3
+81        hsa-miR-320b    73.0          1                 5
+95     hsa-miR-130a-3p    69.0          1                 7
+hsa-miR-195-5p
+hsa-miR-15b-5p
+hsa-miR-15a-5p
+hsa-miR-16-5p
+hsa-miR-497-5p
+hsa-miR-424-5p
+hsa-miR-21-3p
+hsa-miR-33a-3p
+hsa-miR-302c-5p
+hsa-miR-103a-3p
+hsa-miR-107
+hsa-miR-545-3p
+hsa-miR-497-3p
+hsa-miR-675-3p
+hsa-miR-505-3p
+hsa-miR-30c-5p
+hsa-miR-30d-5p
+hsa-miR-30e-5p
+hsa-miR-30b-5p
+hsa-miR-30a-5p
+hsa-miR-141-3p
+hsa-miR-653-5p
+hsa-miR-200a-3p
+hsa-miR-503-5p
+hsa-miR-183-3p
+hsa-miR-519c-3p
+hsa-miR-495-3p
+hsa-miR-297
+hsa-miR-32-3p
+hsa-miR-409-3p
+hsa-miR-421
+hsa-miR-100-3p
+hsa-miR-376a-3p
+hsa-miR-330-3p
+hsa-miR-222-5p
+hsa-miR-145-5p
+hsa-miR-30a-3p
+hsa-miR-29b-1-5p
+hsa-miR-30e-3p
+hsa-miR-30d-3p
+hsa-miR-3143
+hsa-miR-548a-5p
+hsa-miR-186-5p
+hsa-miR-144-3p
+hsa-miR-452-5p
+hsa-miR-495-5p
+hsa-miR-493-5p
+hsa-miR-579-3p
+hsa-miR-452-3p
+hsa-miR-101-3p
+hsa-miR-338-3p
+hsa-miR-197-3p
+hsa-miR-6510-5p
+hsa-miR-542-3p
+hsa-miR-103b
+hsa-let-7c-3p
+hsa-miR-380-3p
+hsa-miR-494-3p
+hsa-miR-29a-5p
+hsa-miR-196a-1-3p
+hsa-miR-9-3p
+hsa-miR-432-5p
+hsa-miR-214-3p
+hsa-miR-199a-3p
+hsa-miR-195-3p
+hsa-miR-199b-3p
+hsa-miR-214-5p
+hsa-miR-192-3p
+hsa-miR-302e
+hsa-miR-194-5p
+hsa-miR-27b-3p
+hsa-miR-136-5p
+hsa-miR-27a-3p
+hsa-miR-128-3p
+hsa-miR-582-3p
+hsa-miR-548a-3p
+hsa-miR-19a-5p
+hsa-miR-148a-5p
+hsa-miR-302c-3p
+hsa-miR-302b-3p
+hsa-miR-485-3p
+hsa-miR-302a-3p
+hsa-miR-20a-3p
+hsa-miR-3941
+hsa-miR-1-5p
+hsa-miR-379-3p
+hsa-miR-302b-5p
+hsa-miR-130a-5p
+hsa-miR-373-3p
+hsa-miR-494-5p
+hsa-miR-466
+hsa-miR-122-5p
+hsa-miR-362-3p
+hsa-miR-367-5p
+hsa-miR-29b-3p
+hsa-miR-29c-3p
+hsa-miR-15b-3p
+hsa-miR-532-5p
+hsa-miR-3134
+hsa-miR-29a-3p
+hsa-miR-335-3p
+hsa-miR-132-3p
+hsa-miR-140-3p
+hsa-miR-212-3p
+hsa-miR-92a-1-5p
+hsa-miR-154-3p
+hsa-miR-139-5p
+hsa-miR-142-5p
+hsa-miR-28-3p
+hsa-miR-145-3p
+hsa-miR-223-5p
+hsa-miR-215-3p
+hsa-miR-182-5p
+hsa-miR-155-5p
+hsa-miR-361-5p
+hsa-miR-340-5p
+hsa-miR-302a-5p
+hsa-miR-590-3p
+hsa-miR-1244
+hsa-miR-511-5p
+hsa-miR-198
+hsa-miR-16-1-3p
+hsa-miR-126-5p
+hsa-miR-380-5p
+hsa-miR-338-5p
+hsa-miR-217-3p
+hsa-miR-6740-3p
+hsa-miR-582-5p
+hsa-miR-26a-1-3p
+hsa-miR-140-5p
+hsa-miR-1-3p
+hsa-miR-206
+hsa-miR-15a-3p
+hsa-miR-373-5p
+hsa-miR-371b-5p
+hsa-miR-760
+hsa-miR-424-3p
+hsa-miR-331-5p
+hsa-miR-875-5p
+hsa-miR-152-3p
+hsa-miR-148b-3p
+hsa-miR-148a-3p
+hsa-miR-23a-3p
+hsa-miR-23b-3p
+hsa-miR-34c-3p
+hsa-miR-320b
+hsa-miR-320a-3p
+hsa-miR-324-3p
+hsa-miR-130a-3p
+hsa-miR-130b-3p
+hsa-miR-7110-3p
+hsa-miR-26b-5p
+hsa-miR-26a-5p
+hsa-miR-33a-5p
+hsa-miR-454-3p
+hsa-miR-142-3p
+hsa-miR-511-3p
+hsa-miR-574-5p
+hsa-miR-6833-5p
+hsa-miR-31-5p
+hsa-let-7g-3p
+hsa-miR-138-5p
+hsa-miR-9851-3p
+hsa-let-7f-1-3p
+hsa-miR-196a-5p
+hsa-miR-193a-3p
+hsa-miR-193b-3p
+hsa-miR-210-3p
+hsa-miR-150-3p
+(169, 4)
+mean: 19.03463855421687
+stdev: 96.53079641540555
+max: 96.53079641540555
+min: 96.53079641540555
+mean: 299.14792899408286
+stdev: 250.93158930387057
+max: 1089.0
+min: 50.0
+mean: 3
+stdev: 2.449489742783178
+max: 11
+max: 1

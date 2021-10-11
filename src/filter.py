@@ -1,3 +1,7 @@
+"""
+Take literature results and print scores
+"""
+
 import pickle
 import pandas as pd
 import matplotlib.pyplot as plt 
@@ -51,18 +55,26 @@ for index, row in df.iterrows():
 		dict_scores["name"] = row["name"]
 		dict_scores["score"] = row["score"]*n_protein_encode
 		dict_scores["n_protein"] = n_protein_encode
+		dict_scores["n_seed_locations"] = row["n_seed_locations"]
 		if dict_scores["score"]>0: 
 			rows_list.append(dict_scores) 
-			print(counter)
+			# print(counter)
 			counter += 1
 
 df_filtered = pd.DataFrame(rows_list)
 df_filtered	= df_filtered.sort_values("score", ascending=False)
 print(df_filtered.shape)
+counter = 1
 for index, row in df_filtered.iterrows():
-	print(row.values)
-	print(litterature_dict[row["name"].replace("-3p",'').replace("-5p", '').replace("hsa-",'')])
+	print(counter, row["name"])
+	counter += 1
+	# print(row.values)
+	# print(litterature_dict[row["name"].replace("-3p",'').replace("-5p", '').replace("hsa-",'')])
 
 plt.close()
 plt.plot(range(len(df_filtered["score"].values)), df_filtered["score"].values)
 plt.savefig("data/results/filtered_distribution.png")
+
+list_of_locations = df_filtered["n_seed_locations"].values.tolist()
+print("Average: ", sum(list_of_locations)/len(list_of_locations))
+print("Max:     ", max(list_of_locations))

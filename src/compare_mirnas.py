@@ -1,3 +1,7 @@
+"""
+Take raw miRDB results and merge them together
+"""
+
 import pandas as pd 
 import numpy as np
 
